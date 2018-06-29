@@ -3,7 +3,7 @@ const dot = require('dot');
 const path = require('path');
 const createTagGenerator = dot.template('<{{= it.tagName }} {{= it.attributes }}></{{= it.tagName }}>');
 
-const pathToDrivers = 'driver';
+const pathToDrivers = path.resolve('node_modules', 'se-core', 'driver');
 
 /**
  *

@@ -1,0 +1,15 @@
+# my xiaomi phone
+# 7cd78986
+
+# old mother-in-low's phone
+# 0123456789ABCDEF
+
+# emulators
+emulator-5560
+emulator-5558
+emulator-5554
+
+# phone1-id
+# phone2-id
+# phone3-id
+# phone4-id
